@@ -1,0 +1,7 @@
+selenium
+pytest
+pytest-html
+pytest-metadata
+pytest-rerunfailures
+allure-pytest
+webdriver-manager
